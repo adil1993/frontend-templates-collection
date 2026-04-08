@@ -1,0 +1,93 @@
+ELITE SALON WEBSITE TEMPLATE - END USER LICENSE AGREEMENT
+
+This License Agreement ("Agreement") is between you ("Licensee") and the template creator ("Licensor") for the Elite Salon Website Template ("Template").
+
+BY DOWNLOADING, INSTALLING, OR USING THIS TEMPLATE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+GRANT OF LICENSE
+Subject to the terms of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable license to use the Template.
+
+PERMITTED USES
+You MAY:
+✅ Use the Template for unlimited personal and commercial projects
+✅ Modify, customize, and adapt the Template to suit your needs
+✅ Use the Template to create websites for your salon/beauty business
+✅ Use the Template for client projects (you must purchase separate licenses for each client)
+✅ Create derivative works based on the Template
+✅ Use the Template on unlimited domains you own or control
+
+PROHIBITED USES
+You MAY NOT:
+❌ Resell, redistribute, or sublicense the Template or its source code
+❌ Share the Template files with others (they must purchase their own license)
+❌ Create competing template products using this Template as a base
+❌ Claim authorship or ownership of the original Template design
+❌ Remove or modify copyright notices or attribution
+❌ Use the Template for illegal or harmful purposes
+❌ Create "template marketplaces" or similar competing services
+
+INTELLECTUAL PROPERTY
+- The Template design, code, and documentation remain the intellectual property of Licensor
+- Licensee owns any custom modifications and content they add
+- Third-party libraries and frameworks retain their original licenses
+- Stock photos from Pexels are subject to Pexels License terms
+
+SUPPORT AND UPDATES
+- Basic setup support is provided for 30 days from purchase
+- Updates and bug fixes may be provided at Licensor's discretion
+- No guarantee of ongoing support or maintenance
+- Documentation is provided for self-service support
+
+WARRANTY DISCLAIMER
+THE TEMPLATE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES.
+
+TECHNICAL REQUIREMENTS
+- Node.js 16 or higher
+- Modern web browser
+- Basic understanding of web development
+- Web hosting account for deployment
+
+REFUND POLICY
+- 30-day money-back guarantee for technical issues that prevent the Template from functioning as described
+- Refunds not available for change of mind, customization difficulties, or user error
+- Must provide evidence of technical issues for refund consideration
+
+TERMINATION
+This license is effective until terminated. Licensor may terminate this license immediately if Licensee breaches any terms. Upon termination, Licensee must cease all use and destroy all copies of the Template.
+
+GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+
+ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+CONTACT INFORMATION
+For questions about this license or the Template:
+Email: [Your Email]
+Website: [Your Website]
+
+COPYRIGHT NOTICE
+© 2024 [Your Business Name]. All rights reserved.
+
+This Template includes:
+- React 18 + TypeScript
+- Tailwind CSS
+- Lucide React Icons
+- EmailJS Integration
+- Responsive Design System
+- Professional Documentation
+
+Third-party components retain their original licenses:
+- React: MIT License
+- Tailwind CSS: MIT License
+- Lucide React: ISC License
+- EmailJS: Commercial License
+
+ACKNOWLEDGMENT
+By using this Template, Licensee acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+
+Last Updated: [Current Date]
+Version: 1.0
